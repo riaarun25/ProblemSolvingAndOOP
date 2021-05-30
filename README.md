@@ -13,6 +13,9 @@ You have a shop of collecting damaged rupee notes (Assume the denominations to b
 #### electronicshop.cpp
 A electronic shop has given the offer during pongal festival of 3% on every item purchase. The prices of the electronic items are Hp laptop is Rs. 35000/-, HP laptop charger is Rs. 1500/-, Hp head set is Rs. 250/-, HP hard disk 1TB is 4000/- and HP pendrive 16GB is 800/-. Write a default function to calculate the total bill amount to pay for purchase in electronic shop.
 
+#### gardening.cpp
+A farmer does drip irrigation in his field. On a fine day, he plants ‘p’ plants and sows ‘s’ seeds in the field. The seeds are so special that they grow into plants two days. The farmer sows ‘s’ seed every alternate day. Given the number of plants he planted on the first day, the number of seeds he sows every alternate day and the value of ‘n’, write a C++ program to find the number of plants that would be in his field on nth day. 
+
 #### policecamp.cpp
 A police camp is recruiting the trainees by measuring the parameters such as height, age and chest. The selection
 based on the following conditions:
